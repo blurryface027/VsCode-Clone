@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>VSCode Website Clone README</title>
-</head>
-<body>
-
 <h1>VSCode Website Clone</h1>
 
 <p>This repository contains a clone of the official <a href="https://code.visualstudio.com/">Visual Studio Code website</a>, built with HTML, CSS, and JavaScript. The project mimics the design and functionality of the original site to enhance frontend development skills.</p>
