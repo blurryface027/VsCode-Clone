@@ -1,6 +1,6 @@
 <h1>VSCode Website Clone</h1>
 
-<p>This repository contains a clone of the official <a href="https://code.visualstudio.com/">Visual Studio Code website</a>, built with HTML, CSS, and JavaScript. The project mimics the design and functionality of the original site to enhance frontend development skills.</p>
+<p>This repository contains a clone of the official <a href="https://code.visualstudio.com/">Visual Studio Code website</a>, built with HTML and CSS. The project mimics the design and functionality of the original site to enhance frontend development skills.</p>
 
 <p>➔ Site is Live <a href="https://blurryface027.github.io/VsCode-Clone">Click Here</a></p>
 
@@ -18,7 +18,6 @@
 <ul>
     <li>HTML</li>
     <li>CSS</li>
-    <li>JavaScript</li>
 </ul>
 
 <h2>📋 Features</h2>
