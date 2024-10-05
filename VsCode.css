@@ -1,0 +1,97 @@
+body {
+    background-color: #0e0e0e;
+    font-family: 'Satoshi', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-smoothing: antialiased;
+}
+
+.rounded-input {
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+    box-sizing: border-box;
+    outline: none;
+    transition: border-color 0.3s ease;
+}
+
+a {
+    font-size: 15px;
+}
+
+p {
+    font-size: 15px;
+    color: white;
+}
+
+h1 {
+    font-family: 'Satoshi', sans-serif;
+    font-weight: 700;
+    font-size: 50px;
+    color: white;
+}
+
+h2 {
+    font-size: 26px;
+    color: white;
+}
+
+h3 {
+    font-size: 20px;
+    color: white;
+}
+
+h4 {
+    color: white;
+}
+
+h5 {
+    color: white;
+}
+
+h6 {
+    color: white;
+}
+
+.search-button {
+    background-color: #007BFF; 
+    color: white;             
+    border: none;              
+    padding: 8px 16px;        
+    text-align: center;        
+    text-decoration: none;    
+    display: inline-block;    
+    font-size: 12px;           
+    border-radius: 5px;       
+    cursor: pointer;           
+    transition: background-color 0.3s ease; 
+}
+
+.blue-button:hover {
+    background-color: #0056b3; 
+}
+
+.blue-button {
+    background-color: #007BFF; 
+    color: white;             
+    border: none;              
+    padding: 10px 20px;        
+    text-align: center;        
+    text-decoration: none;    
+    display: inline-block;    
+    font-size: 16px;           
+    border-radius: 5px;       
+    cursor: pointer;           
+    transition: background-color 0.3s ease; 
+}
+
+.blue-button:hover {
+    background-color: #0056b3; 
+}
+
+.NavBar {
+    color: #e4e4e4;
+    cursor: pointer;
+    padding-left: 15px;
+}
