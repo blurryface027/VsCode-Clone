@@ -2,6 +2,8 @@
 
 <p>This repository contains a clone of the official <a href="https://code.visualstudio.com/">Visual Studio Code website</a>, built with HTML, CSS, and JavaScript. The project mimics the design and functionality of the original site to enhance frontend development skills.</p>
 
+<p>Site is Live <a href="https://blurryface027.github.io/VsCode-Clone">Click Here</a></p>
+
 <h2>🚧 Known Issues</h2>
 <ul>
     <li><strong>Responsiveness</strong>: The site currently performs well on desktop screens but has issues on mobile and tablet devices. Enhancing the responsiveness for smaller screens is an open issue.
