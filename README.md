@@ -37,9 +37,9 @@
 <p>To get started with this project:</p>
 <ol>
     <li>Clone the repository:</li>
-    <pre><code>git clone https://github.com/yourusername/vscode-website-clone.git</code></pre>
+    <pre><code>git clone https://github.com/blurryface027/WebDev-COHORT-3.0.git</code></pre>
     <li>Navigate to the project folder:</li>
-    <pre><code>cd vscode-website-clone</code></pre>
+    <pre><code>cd WebDev-COHORT-3.0</code></pre>
     <li>Open <code>index.html</code> in your browser to view the website.</li>
 </ol>
 
